@@ -1,2 +1,3 @@
 # Tax_Calculator
-a tax calculator that calculates individual taxes based on the IRS tax brackets
+A tax calculator that calculates individual taxes based on the IRS tax brackets
+This calculator was written in 2017 as a final project for my first programming class.
